@@ -1,4 +1,7 @@
 # projeto-poo
+aluno: Vinícius Nunes Barros
+
+
 1. Tudo o que foi pedido foi realizado? Faltou algo?
 sim, acho que poderia ter colocado html, porém não tive tempo.
 
