@@ -9,10 +9,10 @@ sim, acho que poderia ter colocado html, porém não tive tempo.
 até o momento não.
 
 3. Descrição da experiência:
-fiz individual enato foi bastante desafiador.
+fiz em dupla então foi bastante desafiador.
 
 4. Dificuldades encontradas:
-por ter feito sozinho, foi bem desafiador ja que tenho bastante dificuldade na matéria e na liguagem de programação javascript.
+um pouco no começo porém não tantas.
 
 Referência (exemplo)
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/switch
