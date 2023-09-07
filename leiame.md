@@ -1,5 +1,5 @@
 # projeto-poo
-alunos: Vinícius Nunes Barros e Emanuel felix
+alunos: Vinícius Nunes Barros e Emanuel Felix
 
 
 1. Tudo o que foi pedido foi realizado? Faltou algo?
